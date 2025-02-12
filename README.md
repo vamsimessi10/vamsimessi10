@@ -1,8 +1,7 @@
-## Hi there 👋
-
 # 🚀 Data | Sports | Analytics 📊⚽🏀  
 
 Hey there! 👋 I'm a **sports enthusiast** turned **data scientist** 🏆📈, fascinated by the power of **statistics & analytics**. Here's my journey, dating from now – backward in time ⏳🔙:  
+
 
 ## 🏁 **Career Timeline:**  
 🔹 **💻 Data Scientist** – Transforming data into insights & strategies! 🤖📊  
@@ -33,6 +32,8 @@ Hey there! 👋 I'm a **sports enthusiast** turned **data scientist** 🏆📈, 
 ## 🚀 **Let's Connect!**  
 If you're as passionate about **data, sports, and problem-solving** as I am, let's chat! 🤝  
 💬 Feel free to check out my projects, and don't hesitate to reach out! 📩  
+
+📧 **Email me at:** [adibhat1@msu.edu](mailto:adibhat1@msu.edu) 📬  
 
 📍 "Turning raw data into game-changing insights!" 🔥🏆  
 
