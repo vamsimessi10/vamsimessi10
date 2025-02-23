@@ -1,4 +1,4 @@
-# 🚀 Data | Sports | Analytics 📊⚽🏀  
+# 🚀 Data Science + Machine Learning | Sports | Analytics 📊⚽🏀  
 
 Hey there! 👋 I'm a **sports enthusiast** turned **data scientist** 🏆📈, fascinated by the power of **statistics & analytics**. Here's my journey, dating from now – backward in time ⏳🔙:  
 
